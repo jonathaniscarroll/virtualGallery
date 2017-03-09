@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/nextLevel.cs">
+    <Files>
+      <File FileName="Assets/Scripts/randomAudio.cs" Line="6" Column="1" />
+      <File FileName="Assets/Scripts/spawnCube.cs" Line="23" Column="50" />
+      <File FileName="Assets/Scripts/selectSlides.cs" Line="12" Column="57" />
+      <File FileName="Assets/Scripts/nextLevel.cs" Line="20" Column="74" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
